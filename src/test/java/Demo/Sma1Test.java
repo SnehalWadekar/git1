@@ -7,6 +7,7 @@ public class Sma1Test {
 	public void m2() 
 	{
 		System.out.println("Bye");
+		//hello
 	}
 
 }
